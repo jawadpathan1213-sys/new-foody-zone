@@ -1,0 +1,15 @@
+# Ignore node modules (React + Node)
+node_modules/
+
+# Ignore build folders
+client/build/
+client/dist/
+server/build/
+
+# Ignore environment files
+.env
+
+# Ignore editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
